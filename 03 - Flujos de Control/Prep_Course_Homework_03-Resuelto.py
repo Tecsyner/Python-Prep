@@ -23,7 +23,7 @@ else:
 
 
 a = 2
-b = 'hola'
+b = 'holas'
 if (type(a) == type(b)):
     print('Las variables son del mismo tipo de dato')
 else:
